@@ -7,4 +7,4 @@ En este curso se llevó a cabo:
   <li>Se aprendió diseño y desarrollo desde cero utilizando Photosop, HTML y CSS.</li>
  </ul>
  
- Nota. La guía de este curso está disponible en: https://issuu.com/yasmani08/docs/dise_o_y_maquetacion_de_emails/s/12867091
+ Nota. La guía de este curso está disponible <a href="https://issuu.com/yasmani08/docs/dise_o_y_maquetacion_de_emails/s/12867091">¡Aquí!</a>
